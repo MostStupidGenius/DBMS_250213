@@ -9,4 +9,11 @@
 	<natures>
 		<nature>org.jkiss.dbeaver.DBeaverNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Bookmarks/memo</name>
+			<type>2</type>
+			<location>//E:/dbms_1900_ljs_250213/memo/</location>
+		</link>
+	</linkedResources>
 </projectDescription>
